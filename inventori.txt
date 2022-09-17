@@ -1,1 +1,4 @@
 ini adalah fitur inventori dari toko ruangguru
+
+if promo
+ - do something for the stock
